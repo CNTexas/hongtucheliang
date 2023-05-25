@@ -1,3 +1,5 @@
+# 去除router/index.js的登录拦截，可以跳过登录。
+
 # hopechart
 
 > 鸿泉4.0平台
